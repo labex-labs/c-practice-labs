@@ -45,7 +45,7 @@ This course contains lots of labs for C, each lab is a small C project with deta
 |      32 | 📖 Sum of Digits Calculation                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123338'>Start Lab</a> |
 |      33 | 📖 Fibonacci Series Generation in C                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123246'>Start Lab</a> |
 |      34 | 📖 Create a Multiplication Table in C                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123287'>Start Lab</a> |
-|      35 | 📖 Factors Of A Given Number                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123244'>Start Lab</a> |
+|      35 | 📖 Factors of A Given Number                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123244'>Start Lab</a> |
 |      36 | 📖 Finding Largest and Smallest Array Elements in C      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123271'>Start Lab</a> |
 |      37 | 📖 Reverse a String Using Pointer                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123325'>Start Lab</a> |
 |      38 | 📖 Vowel Identification Using Switch Case                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/123217'>Start Lab</a> |
