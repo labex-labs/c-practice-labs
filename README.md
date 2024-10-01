@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                             |
-|---------|----------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Practice                                                                                                                             |
+|---------|---------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Hello World, C!                                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-hello-world-c-123263'>Start Lab</a>                                            |
 |      02 | 📖 Use of Gets Function in C Programming                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-use-of-gets-function-in-c-programming-123354'>Start Lab</a>                    |
 |      03 | 📖 Reversing Case of Character                           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-reversing-case-of-character-123328'>Start Lab</a>                              |
@@ -51,7 +51,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      22 | 📖 Using If-Else Statements in C Programming             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-using-if-else-statements-in-c-programming-123265'>Start Lab</a>                |
 |      23 | 📖 Celsius to Fahrenheit Conversion                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-celsius-to-fahrenheit-conversion-123211'>Start Lab</a>                         |
 |      24 | 📖 Calculate Simple Interest Program                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-calculate-simple-interest-program-123332'>Start Lab</a>                        |
-|      25 | 📖 Swapping Numbers With Pointers                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-swapping-numbers-with-pointers-123350'>Start Lab</a>                           |
+|      25 | 📖 Swapping Numbers with Pointers                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-swapping-numbers-with-pointers-123350'>Start Lab</a>                           |
 |      26 | 📖 Array Traversal Using Pointers                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-array-traversal-using-pointers-123301'>Start Lab</a>                           |
 |      27 | 📖 Find Largest Number                                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-find-largest-number-123277'>Start Lab</a>                                      |
 |      28 | 📖 Circle Area and Circumference in C                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-circle-area-and-circumference-in-c-123197'>Start Lab</a>                       |
@@ -68,7 +68,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      39 | 📖 Deleting an Element From Array Using C                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-deleting-an-element-from-array-using-c-123230'>Start Lab</a>                   |
 |      40 | 📖 Area of Triangle                                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-area-of-triangle-123199'>Start Lab</a>                                         |
 |      41 | 📖 Prime or Composite Number Using Recursion             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-prime-or-composite-number-using-recursion-123309'>Start Lab</a>                |
-|      42 | 📖 Sum of First N Numbers With Recursion                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-sum-of-first-n-numbers-with-recursion-123342'>Start Lab</a>                    |
+|      42 | 📖 Sum of First N Numbers with Recursion                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-sum-of-first-n-numbers-with-recursion-123342'>Start Lab</a>                    |
 |      43 | 📖 Reverse Content of File Using C                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-reverse-content-of-file-using-c-123317'>Start Lab</a>                          |
 |      44 | 📖 Finding Roots of Quadratic Equation                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-finding-roots-of-quadratic-equation-123254'>Start Lab</a>                      |
 |      45 | 📖 Average of N Numbers                                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-average-of-n-numbers-123205'>Start Lab</a>                                     |
